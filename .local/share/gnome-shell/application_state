@@ -2,7 +2,7 @@
 <application-state>
   <context id="">
     <application id="org.gnome.Nautilus.desktop" open-window-count="0" score="3" last-seen="1655551211"/>
-    <application id="org.gnome.Terminal.desktop" open-window-count="1" score="1246" last-seen="1655555872"/>
-    <application id="firefox.desktop" open-window-count="1" score="153" last-seen="1655555871"/>
+    <application id="org.gnome.Terminal.desktop" open-window-count="1" score="1440" last-seen="1655557233"/>
+    <application id="firefox.desktop" open-window-count="1" score="155" last-seen="1655557248"/>
   </context>
 </application-state>
