@@ -269,7 +269,27 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/mustafa/laboratory/README.md" added="2022-06-18T14:17:16Z" modified="2022-06-18T14:17:16Z" visited="2022-06-18T14:17:17.018704Z">
+  <bookmark href="file:///tmp/mozilla_mustafa0/laboratornaya_rabota_2.docx" added="2022-06-18T16:08:43Z" modified="2022-06-18T16:08:43Z" visited="2022-06-18T16:08:43Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-06-18T16:08:43Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/mozilla_mustafa0/laboratornaya_rabota_2-1.docx" added="2022-06-18T16:10:12Z" modified="2022-06-18T16:10:12Z" visited="2022-06-18T16:10:12Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-06-18T16:10:12Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mustafa/laboratory/README.md" added="2022-06-18T17:10:46Z" modified="2022-06-18T17:10:46Z" visited="2022-06-18T17:10:46Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/markdown"/>
@@ -277,7 +297,7 @@
           <bookmark:group>gedit</bookmark:group>
         </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-06-18T14:17:16Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-06-18T17:10:46Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>
